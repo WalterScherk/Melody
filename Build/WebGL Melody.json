@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Melody_0",
+"dataUrl": "WebGL Melody.data.unityweb",
+"asmCodeUrl": "WebGL Melody.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Melody.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Melody.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
